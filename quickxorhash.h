@@ -1,6 +1,5 @@
 #pragma once
 #include <stdint.h>
-#include <stdalign.h>
 
 #ifdef __cplusplus
 extern "C" {
